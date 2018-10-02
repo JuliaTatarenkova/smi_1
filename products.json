@@ -1,0 +1,17 @@
+[
+	{
+		"title": "dog",
+		"description": "Funny dog",
+		"price": "$100"
+	},
+	{
+		"title": "cat",
+		"description": "Funny cat",
+		"price": "$50"
+	},
+	{
+		"title": "mouse",
+		"description": "Funny mouse",
+		"price": "$10"
+	}
+]

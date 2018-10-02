@@ -1,0 +1,20 @@
+.pet-shop {
+	border: 1px solid pink;
+	width: 100%;
+	padding: 30px;
+	text-align: center;
+	box-sizing: border-box;
+}
+.card {
+	border: 1px solid #87CEFA;
+	width: 33%;
+	display: inline-block;
+}
+.card span {
+	display: block;
+}
+
+.card .title {
+	font-size: 24px;
+	font-weight: bold;
+}
