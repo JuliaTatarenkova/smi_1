@@ -1,0 +1,14 @@
+{
+    "dog": {
+        "current": 20,
+        "need": 540
+    },
+    "cat": {
+        "current": 0,
+        "need": 300
+    },
+    "mouse": {
+        "current": 10,
+        "need": 30
+    }
+}
