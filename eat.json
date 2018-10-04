@@ -1,0 +1,22 @@
+{
+    "meat": {
+        "animals": ["dog", "cat"],
+        "price": 5,
+        "calories": 200
+    },
+    "cheese": {
+        "animals": ["dog", "cat", "mouse"],
+        "price": 1,
+        "calories": 10
+    },
+    "fish": {
+        "animals": ["dog", "cat"],
+        "price": 3,
+        "calories": 100
+    },
+    "corn": {
+        "animals": ["mouse"],
+        "price": 0.2,
+        "calories": 2
+    }
+}
